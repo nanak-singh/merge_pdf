@@ -5,6 +5,7 @@ A simple Python command-line tool to merge multiple PDF files into a single PDF.
 ## Requirements
 - Python 3.7+
 - PyPDF2
+- argparse
 
 Install dependencies:
 ```bash
